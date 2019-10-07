@@ -1,0 +1,10 @@
+public class ContohDowhile {
+    public static void main(String[] args){
+        int i=5;
+
+        do {
+            System.out.println("Pernyataan dieksekusi ");
+            i++;
+        } while (i <= 10) ;
+    }
+}
